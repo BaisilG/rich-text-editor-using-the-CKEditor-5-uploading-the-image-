@@ -1,14 +1,14 @@
 //console.log("checking ");
-var express = require('express');
-var bodyParser = require('body-parser');
+//const express = require('express');
+//const bodyParser = require('body-parser');
 
 // const  express = require('express');
 // const bodyparser = require('body-pareser');
 // const multiparty = require('connect-multiparty');
 
-var  express = require('express');
-var bodyparser = require('body-pareser');
-var multiparty = require('connect-multiparty');
+const  express = require('express');
+const bodyparser = require('body-pareser');
+const multiparty = require('connect-multiparty');
 
 const MultipartyMiddleware = multiparty({uploadDir:'./images'});
 
