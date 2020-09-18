@@ -574,7 +574,7 @@
     "next-tick": "^1.0.0",
     "nice-try": "^1.0.5",
     "no-case": "^3.0.3",
-    "node-forge": "^0.9.0",
+    "node-forge": "^0.10.0",
     "node-int64": "^0.4.0",
     "node-libs-browser": "^2.2.1",
     "node-modules-regexp": "^1.0.0",
