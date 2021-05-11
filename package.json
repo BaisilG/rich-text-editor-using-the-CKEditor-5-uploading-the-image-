@@ -359,7 +359,7 @@
     "he": "^1.2.0",
     "hex-color-regex": "^1.1.0",
     "hmac-drbg": "^1.0.1",
-    "hosted-git-info": "^2.8.8",
+    "hosted-git-info": "^2.8.9",
     "hpack.js": "^2.1.6",
     "hsl-regex": "^1.0.0",
     "hsla-regex": "^1.0.0",
